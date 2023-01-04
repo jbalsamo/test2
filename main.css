@@ -1,0 +1,16 @@
+/* .main {
+  padding-left: 1em;
+  padding-right: 1em;
+  background-color: #f34;
+}
+
+#hameBar {
+  display: flex;
+  align-items: center;
+} */
+
+#main {
+  padding-left: 3em;
+  padding-right: 2em;
+  background-color: #fff;
+}
